@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper pack 1","desc":"Standoff 0.23.1 is an open-source software tool designed to annotate text data in a way that is easy to read and understand. ","photo":"https://iili.io/HShare1.jpg"},
+  {"title":"advance mod 2","desc":"It is commonly used in natural language processing (NLP) and machine learning (ML) applications to label and extract important information from text corpora.","photo":"https://iili.io/HShaPzg.jpg"},
+  {"title":"how to use this app 3","desc":"Standoff 0.23.1 is built on the standoff format, which is a widely used format for representing annotations in NLP and ML applications.","photo":"https://iili.io/HShaUdB.webp"},
+  {"title":"tips pack 4","desc":" The standoff format separates the text data from the annotation data, making it easier to read and modify the annotations without altering the underlying text.","photo":"https://iili.io/HShag5P.jpg"},
+  {"title":"advice mod 5","desc":"One of the key features of Standoff 0.23.1 is its ability to annotate text data at various levels of granularity. This means that users can annotate entire documents, individual sentences,","photo":"https://iili.io/HSha4mF.jpg"},
+  {"title":"helper pack 6","desc":" or even specific words or phrases within a sentence. This flexibility allows users to tailor their annotations to the specific needs of their application.","photo":"https://iili.io/HShaiXa.webp"},
+  {"title":"how to use this app 7","desc":"Standoff 0.23.1 also supports a wide range of annotation types, including named entities, part-of-speech tags, syntactic parse trees, and semantic roles. ","photo":"https://iili.io/HShAh21.jpg"},
+  {"title":"tips mod 8","desc":" These annotations can be used to train machine learning models to perform various NLP tasks, such as information extraction, sentiment analysis, and text classification.","photo":"https://iili.io/HShaQqv.jpg"}
    ]
  
 }
